@@ -1,4 +1,4 @@
-- Lỗi 1: Chưa fix
-- Lỗi 2: Chưa fix
-- Lỗi 3: Chưa fix
+- Lỗi 1: Đã fix
+- Lỗi 2: Đã fix
+- Lỗi 3: Đã fix
 - Lỗi 4: Chưa fix
