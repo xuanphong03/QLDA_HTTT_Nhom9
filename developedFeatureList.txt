@@ -1,0 +1,4 @@
+Danh sách tính năng đã phát triển:
+- Quản lý giỏ hàng
+- Đăng nhập / Đăng ký
+- Quản lý sản phẩm
