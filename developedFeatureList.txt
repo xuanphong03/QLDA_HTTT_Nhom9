@@ -3,3 +3,4 @@ Danh sách tính năng đã phát triển:
 - Đăng nhập / Đăng ký
 - Quản lý sản phẩm
 - Tìm kiếm sản phẩm
+- Thêm sản phẩm
