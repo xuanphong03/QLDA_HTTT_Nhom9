@@ -2,3 +2,5 @@
 - Lỗi 2: Đã fix
 - Lỗi 3: Đã fix
 - Lỗi 4: Chưa fix
+- Lỗi 5: Đã fix
+- Lỗi 6: Đã fix
